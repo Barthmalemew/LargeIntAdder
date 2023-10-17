@@ -1,0 +1,3 @@
+﻿  Main.cpp
+C:\Users\Kevin Anderson\Documents\Projects\LargeIntAdder\Main.cpp(104,18): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  LargeIntAdder.vcxproj -> C:\Users\Kevin Anderson\Documents\Projects\LargeIntAdder\x64\Debug\LargeIntAdder.exe
